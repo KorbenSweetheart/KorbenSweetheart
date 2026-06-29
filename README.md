@@ -16,6 +16,7 @@ I genuinely enjoy the process of designing, prototyping, and building applicatio
 
 - Email: ivan.joker88[at]gmail.com
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ivan-andreev/)
+- ![Profile views](https://views.igorkowalczyk.dev/api/badge/koKorbenSweetheart?style=flat)
 
 ---
 
@@ -27,7 +28,7 @@ A full-stack Tinder-style matching recommendation app to connect users based on 
 
 **Tech:** `Go`, `React`, `TypeScript`, `PostgreSQL`, `WebSockets`
 
-## Finished Projects
+## 🎯 Finished Projects
 
 > [!IMPORTANT]
 > **Repository access**
@@ -76,11 +77,21 @@ This project features a fully functional HTTP server wrapped in a robust middlew
 
 **Tech:** `Go`, `CSS`, `HTML`
 
-### **[Wordle game (CLI)](https://github.com/KorbenSweetheart/wordle)**
+### **[Wordle (CLI) - popular game, written in Go](https://github.com/KorbenSweetheart/wordle)**
 
 A CLI implementation of the popular Wordle game, written in Go. This version features persistent statistics, ANSI-colored terminal output, and a modular architecture.
 
 **Tech:** `Go`
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Go, JavaScript, TypeScript, C
+- **Full-Stack Web**: Node.js, Express.js, React.js, Socket.io, Vite, HTML5/CSS3
+- **Data & Databases**: SQL, SQLite, PostgreSQL, Redis
+- **Infrastructure & DevOps**: Docker, Bash Scripting, Makefile
+- **Development Ecosystem**: VS Code, Postman, Bruno
 
 ---
 
