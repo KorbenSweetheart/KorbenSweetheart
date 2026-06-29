@@ -1,6 +1,6 @@
 # Hey, I'm Ivan 👋
 
-I’m a Software Engineering student at //kood Network (kood/Sisu Kuopio).
+I’m a Software Engineering student at [//kood Network](https://kood.tech/) ([kood/Sisu Kuopio](https://koodsisu.fi/)).
 
 My unique experience, abstract thinking, and hard-working mindset enable me to approach problems from multiple angles and break down complex requirements.
 
@@ -36,7 +36,7 @@ A full-stack Tinder-style matching recommendation app, to connect users based on
 >
 > 📩 Please contact me via **LinkedIn or email** to request access.
 
-### **[Racetrack — Real-Time race control system](https://github.com/KorbenSweetheart/racetrack)**
+### **[Racetrack — real-time race control system](https://github.com/KorbenSweetheart/racetrack)**
 
 The Racetrack is a real-time, multi-page web application designed to simulate the backend and frontend systems used to manage a live racing event (such as F1 or karting).
 
@@ -48,15 +48,15 @@ A web forum for literature enthusiasts, featuring DB storage, containerized depl
 
 **Tech:** `Go`, `SQLite`, `Docker`
 
-### **[Car catalog — SSR web app for car dealer](https://github.com/KorbenSweetheart/car-catalog)**
+### **[Car Catalog — car dealer web app](https://github.com/KorbenSweetheart/car-catalog)**
 
 A robust, server-side rendered web application designed to browse a car catalog, compare vehicle specifications, and provide personalized recommendations based on user behavior.
 
 **Tech:** `Go`, `CSS`, `HTML`, `Makefile`
 
-### **[KNOK Bot - Knowledge Keeper bot](https://github.com/KorbenSweetheart/knok-bot)**
+### **[Knowledge Keeper Bot - Telegram bot](https://github.com/KorbenSweetheart/knok-bot)**
 
-A KNOK bot designed to manage and store articles for later reading via the Telegram Bot API.
+A KNOK (Knowledge Keeper) bot designed to manage and store articles for later reading via the Telegram Bot API.
 The bot saves articles for you to read later. It can be useful for people who often save many links, but always forget about them.
 
 **Tech:** `Go`, `Telegram Bot API`
@@ -69,14 +69,14 @@ The program parses a network map containing up to 10,000 stations and their conn
 
 **Tech:** `Go`, `Makefile`
 
-### **[ASCII Art Interface - Web app for Art Decoder](https://github.com/KorbenSweetheart/interface)**
+### **[ASCII Art Interface - web app for decoding ASCII art](https://github.com/KorbenSweetheart/interface)**
 
 A web app that converts compact art descriptions into text-based art (and vice versa).
 This project features a fully functional HTTP server wrapped in a robust middleware chain, delivering a Retro Style Arcade themed web interface.
 
 **Tech:** `Go`, `CSS`, `HTML`
 
-### **[Wordle (CLI)](https://github.com/KorbenSweetheart/wordle)**
+### **[Wordle game (CLI)](https://github.com/KorbenSweetheart/wordle)**
 
 A CLI implementation of the popular Wordle game, written in Go. This version features persistent statistics, ANSI-colored terminal output, and a modular architecture.
 
