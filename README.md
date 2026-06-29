@@ -46,36 +46,41 @@ The Racetrack is a real-time, multi-page web application designed to simulate th
 
 A web forum for literature enthusiasts, featuring DB storage, containerized deployment.
 
-**Tech:** Go, SQLite, Docker
+**Tech:** `Go`, `SQLite`, `Docker`
 
 ### **[Car catalog — SSR web app for car dealer](https://github.com/KorbenSweetheart/car-catalog)**
 
 A robust, server-side rendered web application designed to browse a car catalog, compare vehicle specifications, and provide personalized recommendations based on user behavior.
 
-**Tech:** Go, CSS, HTML, Makefile
+**Tech:** `Go`, `CSS`, `HTML`, `Makefile`
 
 ### **[KNOK Bot - Knowledge Keeper bot](https://github.com/KorbenSweetheart/knok-bot)**
 
 A KNOK bot designed to manage and store articles for later reading via the Telegram Bot API.
 The bot saves articles for you to read later. It can be useful for people who often save many links, but always forget about them.
-**Tech:** Go, Telegram Bot API
+
+**Tech:** `Go`, `Telegram Bot API`
 
 ### **[Pathfinder — CLI shortest routes calculation tool](https://github.com/KorbenSweetheart/shortest-route-cli)**
 
 Pathfinder is a command-line application designed to identify the quickest way to move a given number of trains from a start to an end station across a complex network of tracks.
+
 The program parses a network map containing up to 10,000 stations and their connections, and calculates the optimal routing to minimize the total number of train movement turns. It efficiently handles multiple paths simultaneously, ensuring trains reach their destination as quickly as possible without collisions.
-**Tech:** Go, Makefile
+
+**Tech:** `Go`, `Makefile`
 
 ### **[ASCII Art Interface - Web app for Art Decoder](https://github.com/KorbenSweetheart/interface)**
 
 A web app that converts compact art descriptions into text-based art (and vice versa).
 This project features a fully functional HTTP server wrapped in a robust middleware chain, delivering a Retro Style Arcade themed web interface.
-**Tech:** Go, CSS, HTML
+
+**Tech:** `Go`, `CSS`, `HTML`
 
 ### **[Wordle (CLI)](https://github.com/KorbenSweetheart/wordle)**
 
 A CLI implementation of the popular Wordle game, written in Go. This version features persistent statistics, ANSI-colored terminal output, and a modular architecture.
-**Tech:** Go
+
+**Tech:** `Go`
 
 ---
 
