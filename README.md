@@ -20,6 +20,13 @@ I genuinely enjoy the process of designing, prototyping, and building applicatio
 
 ---
 
+> [!IMPORTANT]
+> **Repository access**
+>
+> The projects developed as part of the kood/Sisu learning program are maintained in **private GitHub repositories** in accordance with school policy.
+>
+> 📩 Please contact me via **LinkedIn or email** to request access.
+
 ## _WIP_ - Work in progress
 
 ### **[Match Me App](https://github.com/KorbenSweetheart/web)**
@@ -29,13 +36,6 @@ A full-stack Tinder-style matching recommendation app to connect users based on 
 **Tech:** `Go`, `React`, `TypeScript`, `PostgreSQL`, `WebSockets`
 
 ## 🎯 Finished Projects
-
-> [!IMPORTANT]
-> **Repository access**
->
-> The projects developed as part of the kood/Sisu learning program are maintained in **private GitHub repositories** in accordance with school policy.
->
-> 📩 Please contact me via **LinkedIn or email** to request access.
 
 ### **[Racetrack — real-time race control system](https://github.com/KorbenSweetheart/racetrack)**
 
