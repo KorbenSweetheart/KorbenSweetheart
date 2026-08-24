@@ -31,7 +31,7 @@ I genuinely enjoy the process of designing, prototyping, and building applicatio
 
 ### **[Match Me App](https://github.com/KorbenSweetheart/web)**
 
-A full-stack Tinder-style matching recommendation app to connect users based on their profile information.
+A full-stack Tinder-style matching recommendation app that helps sports enthusiasts find a training partner.
 
 **Tech:** `Go`, `React`, `TypeScript`, `PostgreSQL`, `WebSockets`, `MinIo (S3)`, `JWT`, `Echo`, `GORM`
 
