@@ -33,6 +33,11 @@ I genuinely enjoy the process of designing, prototyping, and building applicatio
 
 A full-stack Tinder-style matching recommendation app that helps sports enthusiasts find a training partner.
 
+> [!NOTE]
+> **Overfetching is a mandatory requirement in this project.**
+> 
+> An additional task is to implement GraphQL to display its value in contrast.
+
 **Tech:** `Go`, `React`, `TypeScript`, `PostgreSQL`, `WebSockets`, `MinIo (S3)`, `JWT`, `Echo`, `GORM`
 
 ## 🎯 Finished Projects
