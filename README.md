@@ -33,7 +33,7 @@ I genuinely enjoy the process of designing, prototyping, and building applicatio
 
 A full-stack Tinder-style matching recommendation app to connect users based on their profile information.
 
-**Tech:** `Go`, `React`, `TypeScript`, `PostgreSQL`, `WebSockets`
+**Tech:** `Go`, `React`, `TypeScript`, `PostgreSQL`, `WebSockets`, `MinIo (S3)`, `JWT`, `Echo`, `GORM`
 
 ## 🎯 Finished Projects
 
