@@ -32,6 +32,7 @@ I genuinely enjoy the process of designing, prototyping, and building applicatio
 ### **[Match Me App](https://github.com/KorbenSweetheart/web)**
 
 A full-stack Tinder-style matching recommendation app that helps sports enthusiasts find a training partner.
+It is a high-performance backend REST API  in Go for a matchmaking and social connection platform. The service provides secure user authentication, biographical profiling, geospatial proximity matching, connection lifecycle management, S3-compatible media storage, and real-time chat with presence tracking.
 
 > [!NOTE]
 > **Overfetching is a mandatory requirement in this project.**
