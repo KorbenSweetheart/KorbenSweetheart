@@ -29,13 +29,13 @@ I genuinely enjoy the process of designing, prototyping, and building applicatio
 
 ## _WIP_ - Work in progress
 
-### **[Match Me App](https://github.com/KorbenSweetheart/web)**
+### **[Pulse App](https://github.com/KorbenSweetheart/web)**
 
-A full-stack Tinder-style matching recommendation app that helps sports enthusiasts find a training partner.
+Pulse is a full-stack Tinder-style matching recommendation app that helps sports enthusiasts find training partners.
 It is a high-performance backend REST API  in Go for a matchmaking and social connection platform. The service provides secure user authentication, biographical profiling, geospatial proximity matching, connection lifecycle management, S3-compatible media storage, and real-time chat with presence tracking.
 
 > [!NOTE]
-> **Overfetching is a mandatory requirement in this project.**
+> **Overfetching is a mandatory requirement in this project. **
 > 
 > An additional task is to implement GraphQL to display its value in contrast.
 
