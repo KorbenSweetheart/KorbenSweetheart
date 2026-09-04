@@ -37,7 +37,7 @@ Create your own front-end framework, which allows you to describe user interface
 
 ## 🎯 Finished Projects
 
-### **[Pulse App](https://github.com/KorbenSweetheart/web)**
+### **[Pulse - recommendation app for sports enthusiasts](https://github.com/KorbenSweetheart/web)**
 
 Pulse is a full-stack Tinder-style matching recommendation app that helps sports enthusiasts find training partners.
 It is a high-performance backend REST API  in Go for a matchmaking and social connection platform. The service provides secure user authentication, biographical profiling, geospatial proximity matching, connection lifecycle management, S3-compatible media storage, and real-time chat with presence tracking.
