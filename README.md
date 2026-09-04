@@ -29,6 +29,14 @@ I genuinely enjoy the process of designing, prototyping, and building applicatio
 
 ## _WIP_ - Work in progress
 
+### **[dot-js - frontend-framework]**
+
+Create your own front-end framework, which allows you to describe user interfaces with JavaScript.
+
+**Tech:** `JavaScript`, `Node.js`, `Express.js`, `CSS`, `HTML`
+
+## 🎯 Finished Projects
+
 ### **[Pulse App](https://github.com/KorbenSweetheart/web)**
 
 Pulse is a full-stack Tinder-style matching recommendation app that helps sports enthusiasts find training partners.
@@ -39,9 +47,7 @@ It is a high-performance backend REST API  in Go for a matchmaking and social co
 > 
 > An additional task is to implement GraphQL to display its value in contrast.
 
-**Tech:** `Go`, `React`, `TypeScript`, `PostgreSQL`, `WebSockets`, `MinIo (S3)`, `JWT`, `Echo`, `GORM`
-
-## 🎯 Finished Projects
+**Tech:** `Go`, `React`, `TypeScript`, `PostgreSQL`, `WebSockets`, `S3 (MinIO)`, `JWT`, `Echo`, `GORM`
 
 ### **[Racetrack — real-time race control system](https://github.com/KorbenSweetheart/racetrack)**
 
