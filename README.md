@@ -33,21 +33,21 @@ I genuinely enjoy the process of designing, prototyping, and building applicatio
 
 Create your own front-end framework, which allows you to describe user interfaces with JavaScript.
 
-**Tech:** `JavaScript`, `Node.js`, `Express.js`, `CSS`, `HTML`
+**Tech:** `JavaScript`, `Node.js`, `Express.js`, `Nest.js`
 
 ## 🎯 Finished Projects
 
 ### **[Pulse - recommendation app for sports enthusiasts](https://github.com/KorbenSweetheart/web)**
 
 Pulse is a full-stack Tinder-style matching recommendation app that helps sports enthusiasts find training partners.
-It is a high-performance backend REST API  in Go for a matchmaking and social connection platform. The service provides secure user authentication, biographical profiling, geospatial proximity matching, connection lifecycle management, S3-compatible media storage, and real-time chat with presence tracking.
+It is a high-performance backend REST API  in Go for a matchmaking and social connection platform. The service provides secure user authentication, biographical profiling, geospatial proximity matching, connection lifecycle management, S3-compatible media storage, and real-time chat with presence tracking. An interactive Swagger (OpenAPI 2.0) documentation powered by swaggo.
 
 > [!NOTE]
 > **Overfetching is a mandatory requirement in this project.**
 > 
 > An additional task is to implement GraphQL to display its value in contrast.
 
-**Tech:** `Go`, `React`, `TypeScript`, `PostgreSQL`, `WebSockets`, `S3 (MinIO)`, `JWT`, `Echo`, `GORM`
+**Tech:** `Go`, `React`, `TypeScript`, `PostgreSQL`, `WebSockets`, `S3 (MinIO)`, `JWT`, `Echo`, `GORM`, `Swagger`
 
 ### **[Racetrack — real-time race control system](https://github.com/KorbenSweetheart/racetrack)**
 
