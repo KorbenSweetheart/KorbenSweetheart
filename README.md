@@ -29,11 +29,11 @@ I genuinely enjoy the process of designing, prototyping, and building applicatio
 
 ## _WIP_ - Work in progress
 
-### **[dot-js - frontend-framework]**
+### **[Tanks - multiplayer game]**
 
-Create your own front-end framework, which allows you to describe user interfaces with JavaScript.
+Tanks is a three.js web-browser multiplayer game inspired by the retro game Battle City. It supports up to 4 players, who can join a match from their own computers.
 
-**Tech:** `JavaScript`, `Node.js`, `Express.js`, `Nest.js`
+**Tech:** `JavaScript`, `Node.js`, `Express.js`
 
 ## 🎯 Finished Projects
 
@@ -48,6 +48,13 @@ It is a high-performance backend REST API  in Go for a matchmaking and social co
 > An additional task is to implement GraphQL to display its value in contrast.
 
 **Tech:** `Go`, `React`, `TypeScript`, `PostgreSQL`, `WebSockets`, `S3 (MinIO)`, `JWT`, `Echo`, `GORM`, `Swagger`
+
+### **[dot-js - frontend-framework](https://github.com/KorbenSweetheart/dotjs)**
+
+dot-js is a lightweight, zero-dependency vanilla JavaScript frontend framework implemented entirely from scratch using native Web APIs.
+It provides a unified application architecture featuring declarative DOM rendering, reactive state management with cross-session persistence, client-side SPA routing, delegated event handling, and built-in HTTP utilities.
+
+**Tech:** `JavaScript`, `Node.js`, `NestJS`, `Fastify`, `Vite`, `Docker`
 
 ### **[Racetrack — real-time race control system](https://github.com/KorbenSweetheart/racetrack)**
 
