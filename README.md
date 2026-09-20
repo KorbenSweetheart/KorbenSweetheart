@@ -107,14 +107,15 @@ A CLI implementation of the popular Wordle game, written in Go. This version fea
 ## 🛠️ Tech Stack
 
 - **Languages**: Go, JavaScript, TypeScript, C
-- **Full-Stack Web**: Node.js, Express.js, React.js, Socket.io, Vite, HTML5/CSS3
-- **Data & Databases**: SQL, SQLite, PostgreSQL, Redis, MinIO, S3
+- **Backend**: Echo, Fiber, Node.js, Express.js, NestJS, Fastify, WebSocket
+- **Frontend & Web**: React.js, Next.js, Vite, HTML5/CSS3
+- **Data & Databases**: PostgreSQL, SQLite, Redis, Object Storage (S3), MinIO
 - **Infrastructure & DevOps**: Docker, Bash Scripting, Makefile
 - **Development Ecosystem**: VS Code, Postman, Bruno
 
 ---
 
-## Currently learning
+## Currently studying
 
-- TypeScript (JavaScript), React, Vite, and other related frontend tech to complete the Full-Stack developer studies
-- System design & design patterns
+- TypeScript (JavaScript), React, Vite, and other related frontend tech to complete the Full-Stack developer studies.
+- System design & design patterns.
