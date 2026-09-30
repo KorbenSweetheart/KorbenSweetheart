@@ -42,7 +42,10 @@ Go (Echo, standard library), JavaScript/TypeScript/Node.js, PostgreSQL (relation
 
 ### **[Tanks - multiplayer game]**
 
-Tanks is a three.js web-browser multiplayer game inspired by the retro game Battle City. It supports up to 4 players, who can join a match from their own computers.
+Tanks is a web-based multiplayer tank game inspired by the retro game Battle City. It supports up to 4 players, who can join a match from their own computers.
+
+> [!NOTE]
+> **The use of canvas is strictly prohibited.**
 
 **Tech:** `JavaScript`, `Node.js`, `Express.js`
 
