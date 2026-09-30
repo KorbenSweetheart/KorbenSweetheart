@@ -2,15 +2,26 @@
 
 I’m a Software Engineering student at [//kood Network](https://kood.tech/) ([kood/Sisu Kuopio](https://koodsisu.fi/)).
 
-My unique experience, abstract thinking, and hard-working mindset enable me to approach problems from multiple angles and break down complex requirements.
+I build backends and web services in Go and TypeScript (1+ years of hands-on experience). Having spent years in marketing, technical project management, and business operations before writing code full-time, I treat software engineering as direct ownership of the problem, not just syntax generation.
 
-What I bring to the table:
+Today, anyone can generate code in seconds. What actually matters is knowing what to build, verifying the output, and seeing it through:
 
-- **PM Experience:** Having 3+ years of experience leading cross-functional teams, I know exactly what goes into product management. As a developer, this makes me incredibly independent: I can read a PRD, immediately grasp the intent, and execute without needing constant clarification. I speak the same language as your product team, making collaboration seamless.
-- **Business Value:** My background allows me to focus on actual business goals. I can figure out how software should work to meet user needs, and how to build stable, maintainable, and reliable software that actually solves the core problem.
-- **Marketing & End-User Understanding:** With practical marketing experience, I know how to promote, engage, and sell software products. This helps me bridge a common gap in development: I understand _who_ we are building for, how they will use the product, and what their actual pain points are.
+- I own what I ship.
+Whether I'm writing code from scratch or directing AI agents, I stay responsible for the final result, edge cases, and reliability.
 
-I genuinely enjoy the process of designing, prototyping, and building applications that solve real problems.
+- I design before I code. 
+Having scoped projects for years, I map out data flows, edge cases, and API contracts upfront so we don't spend time rewriting them next sprint.
+
+- I pick up context fast.
+If I hit an edge case or don't know a specific tool yet, I don't wait for hand-holding. I dig into docs, validate the architecture, test solutions, and push through until it works.
+
+- I don't need a translator.
+I understand marketing metrics, product roadmaps, and business constraints. I can talk directly to stakeholders, designers, or backend peers without misinterpreting requirements.
+
+## Stack & Focus:
+Go (Echo, standard library), JavaScript/TypeScript/Node.js, PostgreSQL (relational schema design, queries), Docker, REST APIs, WebSockets.
+
+**Open to backend/software engineering roles (Finland / Remote).**
 
 ## 📬 Let's Connect!
 
