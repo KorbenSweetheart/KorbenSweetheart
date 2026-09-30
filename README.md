@@ -7,18 +7,19 @@ I build backends and web services in Go and TypeScript (1+ years of hands-on exp
 Today, anyone can generate code in seconds. What actually matters is knowing what to build, verifying the output, and seeing it through:
 
 - I own what I ship.
-Whether I'm writing code from scratch or directing AI agents, I stay responsible for the final result, edge cases, and reliability.
+  Whether I'm writing code from scratch or directing AI agents, I stay responsible for the final result, edge cases, and reliability.
 
-- I design before I code. 
-Having scoped projects for years, I map out data flows, edge cases, and API contracts upfront so we don't spend time rewriting them next sprint.
+- I design before I code.
+  Having scoped projects for years, I map out data flows, edge cases, and API contracts upfront so we don't spend time rewriting them next sprint.
 
 - I pick up context fast.
-If I hit an edge case or don't know a specific tool yet, I don't wait for hand-holding. I dig into docs, validate the architecture, test solutions, and push through until it works.
+  If I hit an edge case or don't know a specific tool yet, I don't wait for hand-holding. I dig into docs, validate the architecture, test solutions, and push through until it works.
 
 - I don't need a translator.
-I understand marketing metrics, product roadmaps, and business constraints. I can talk directly to stakeholders, designers, or backend peers without misinterpreting requirements.
+  I understand marketing metrics, product roadmaps, and business constraints. I can talk directly to stakeholders, designers, or backend peers without misinterpreting requirements.
 
 ## Stack & Focus:
+
 Go (Echo, standard library), JavaScript/TypeScript/Node.js, PostgreSQL (relational schema design, queries), Docker, REST APIs, WebSockets.
 
 **Open to backend/software engineering roles (Finland / Remote).**
@@ -40,6 +41,8 @@ Go (Echo, standard library), JavaScript/TypeScript/Node.js, PostgreSQL (relation
 
 ## _WIP_ - Work in progress
 
+![Concept Art](assets/concept-ww2.jpg)
+
 ### **[Tanks - multiplayer game]**
 
 Tanks is a web-based multiplayer tank game inspired by the retro game Battle City. It supports up to 4 players, who can join a match from their own computers.
@@ -54,11 +57,11 @@ Tanks is a web-based multiplayer tank game inspired by the retro game Battle Cit
 ### **[Pulse - recommendation app for sports enthusiasts](https://github.com/KorbenSweetheart/web)**
 
 Pulse is a full-stack Tinder-style matching recommendation app that helps sports enthusiasts find training partners.
-It is a high-performance backend REST API  in Go for a matchmaking and social connection platform. The service provides secure user authentication, biographical profiling, geospatial proximity matching, connection lifecycle management, S3-compatible media storage, and real-time chat with presence tracking. An interactive Swagger (OpenAPI 2.0) documentation powered by swaggo.
+It is a high-performance backend REST API in Go for a matchmaking and social connection platform. The service provides secure user authentication, biographical profiling, geospatial proximity matching, connection lifecycle management, S3-compatible media storage, and real-time chat with presence tracking. An interactive Swagger (OpenAPI 2.0) documentation powered by swaggo.
 
 > [!NOTE]
 > **Overfetching is a mandatory requirement in this project.**
-> 
+>
 > An additional task is to implement GraphQL to display its value in contrast.
 
 **Tech:** `Go`, `React`, `TypeScript`, `PostgreSQL`, `WebSockets`, `S3 (MinIO)`, `JWT`, `Echo`, `GORM`, `Swagger`
