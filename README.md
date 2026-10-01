@@ -41,9 +41,9 @@ Go (Echo, standard library), JavaScript/TypeScript/Node.js, PostgreSQL (relation
 
 ## _WIP_ - Work in progress
 
-![Concept Art](assets/concept-ww2.jpg)
+![Concept Art](assets/tanks-cover.webp)
 
-### **[Tanks - multiplayer game]**
+### **[Tanks - multiplayer game](https://github.com/KorbenSweetheart/tanks)**
 
 Tanks is a web-based multiplayer tank game inspired by the retro game Battle City. It supports up to 4 players, who can join a match from their own computers.
 
