@@ -41,16 +41,8 @@ Go (Echo, standard library), JavaScript/TypeScript/Node.js, PostgreSQL (relation
 
 ## _WIP_ - Work in progress
 
-![Concept Art](assets/tanks-cover.webp)
-
-### **[Tanks - multiplayer game](https://github.com/KorbenSweetheart/tanks)**
-
-Tanks is a web-based multiplayer tank game inspired by the retro game Battle City. It supports up to 4 players, who can join a match from their own computers.
-
-> [!NOTE]
-> **The use of canvas is strictly prohibited.**
-
-**Tech:** `JavaScript`, `Node.js`, `Express.js`
+- **GraphQL API for Pulse app** - to serve data more efficiently for mobile devices.
+- **NPCs for Tanks game** - Advanced NPCs for a single-player mode.
 
 ## 🎯 Finished Projects
 
@@ -65,6 +57,17 @@ It is a high-performance backend REST API in Go for a matchmaking and social con
 > An additional task is to implement GraphQL to display its value in contrast.
 
 **Tech:** `Go`, `React`, `TypeScript`, `PostgreSQL`, `WebSockets`, `S3 (MinIO)`, `JWT`, `Echo`, `GORM`, `Swagger`
+
+### **[Tanks - multiplayer game](https://github.com/KorbenSweetheart/tanks)**
+
+![Concept Art](assets/tanks-cover.webp)
+
+Tanks is a web-based multiplayer tank game inspired by the retro game Battle City. It supports up to 4 players, who can join a match from their own computers.
+
+> [!NOTE]
+> **The use of canvas is strictly prohibited.**
+
+**Tech:** `JavaScript`, `Node.js`, `Express.js`
 
 ### **[dot-js - frontend-framework](https://github.com/KorbenSweetheart/dotjs)**
 
@@ -94,7 +97,7 @@ A robust, server-side-rendered web application designed to browse a car catalog,
 ### **[Knowledge Keeper Bot - Telegram bot](https://github.com/KorbenSweetheart/knok-bot)**
 
 A KNOK (Knowledge Keeper) bot designed to manage and store articles for later reading via the Telegram Bot API.
-The bot saves articles for you to read later. It can be useful for people who often save many links, but always forget about them.
+The bot saves articles for you to read later. It can be useful for people who often save many links but always forget about them.
 
 **Tech:** `Go`, `Telegram Bot API`
 
@@ -109,7 +112,7 @@ The program parses a network map containing up to 10,000 stations and their conn
 ### **[ASCII Art Interface - web app for decoding ASCII art](https://github.com/KorbenSweetheart/interface)**
 
 A web app that converts compact art descriptions into text-based art (and vice versa).
-This project features a fully functional HTTP server wrapped in a robust middleware chain. The web interface design inspired by retro arcade games.
+This project features a fully functional HTTP server wrapped in a robust middleware chain. The web interface design is inspired by retro arcade games.
 
 **Tech:** `Go`, `CSS`, `HTML`
 
