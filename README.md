@@ -2,7 +2,7 @@
 
 I’m a Software Engineering student at [//kood Network](https://kood.tech/) ([kood/Sisu Kuopio](https://koodsisu.fi/)).
 
-I build backends and web services in Go and TypeScript (1+ years of hands-on experience). Having spent years in marketing, technical project management, and business operations before writing code full-time, I treat software engineering as direct ownership of the problem, not just syntax generation.
+Backend engineer working in Go and TypeScript (1+ years of hands-on experience). I treat software engineering as direct ownership of the problem, not just syntax generation. Before transitioning to software development, I spent years in marketing, technical project management, and business operations.
 
 Today, anyone can generate code in seconds. What actually matters is knowing what to build, verifying the output, and seeing it through:
 
