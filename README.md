@@ -1,26 +1,25 @@
 # Hey, I'm Ivan 👋
 
-I’m a Software Engineering student at [//kood Network](https://kood.tech/) ([kood/Sisu Kuopio](https://koodsisu.fi/)).
+I’m a software engineer working in Go and TypeScript (1+ years of hands-on experience). Before transitioning to software development, I spent years in marketing, technical project management, and business operations.
 
-Backend engineer working in Go and TypeScript (1+ years of hands-on experience). I treat software engineering as direct ownership of the problem, not just syntax generation. Before transitioning to software development, I spent years in marketing, technical project management, and business operations.
+- System Design & Architecture:
+I map out data flows, API contracts, and edge cases before implementation to prevent architectural rework and sprint rollbacks.
 
-Today, anyone can generate code in seconds. What actually matters is knowing what to build, verifying the output, and seeing it through:
+- UI/UX & Product Mindset:
+I understand user flows and interface constraints. I work closely with designers to deliver clean, accessible, and technically feasible user experiences.
 
-- I own what I ship.
-  Whether I'm writing code from scratch or directing AI agents, I stay responsible for the final result, edge cases, and reliability.
+- Testing & Code Quality:
+I take full ownership of what ships to production. I write tests, account for failure states early, and build systems that are easy to maintain.
 
-- I design before I code.
-  Having scoped projects for years, I map out data flows, edge cases, and API contracts upfront so we don't spend time rewriting them next sprint.
+- Autonomy & Fast Learning:
+I ramp up on unfamiliar stacks, tools, and codebases independently through documentation and diagnostics, without needing micromanagement.
 
-- I pick up context fast.
-  If I hit an edge case or don't know a specific tool yet, I don't wait for hand-holding. I dig into docs, validate the architecture, test solutions, and push through until it works.
-
-- I don't need a translator.
-  I understand marketing metrics, product roadmaps, and business constraints. I can talk directly to stakeholders, designers, or backend peers without misinterpreting requirements.
+- Stakeholder Communication:
+I translate high-level product goals and business constraints directly into technical requirements, working seamlessly with product managers, designers, and engineers.
 
 ## Stack & Focus:
 
-Go (Echo, standard library), JavaScript/TypeScript/Node.js, PostgreSQL (relational schema design, queries), Docker, REST APIs, WebSockets.
+Go, JavaScript/TypeScript/Node.js, PostgreSQL, S3 Object Storage, REST APIs, WebSockets, Docker.
 
 **Open to backend/software engineering roles (Finland / Remote).**
 
