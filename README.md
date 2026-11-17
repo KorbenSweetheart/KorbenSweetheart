@@ -1,33 +1,17 @@
 # Hey, I'm Ivan 👋
 
-I’m a software engineer working in Go and TypeScript (1+ years of hands-on experience). Before transitioning to software development, I spent years in marketing, technical project management, and business operations.
+Software engineer building backend services in Go and TypeScript. I am currently completing a six-month DevOps specialization alongside an intensive, project-based software engineering program in Finland.
 
-- System Design & Architecture:
-I map out data flows, API contracts, and edge cases before implementation to prevent architectural rework and sprint rollbacks.
+Before moving into software engineering, I worked as a project manager and spent nine years at an international B2B SaaS company doing marketing, project management, and business operations.
 
-- UI/UX & Product Mindset:
-I understand user flows and interface constraints. I work closely with designers to deliver clean, accessible, and technically feasible user experiences.
+**Stack & Current Focus**
+- **Backend & Data:** Go, TypeScript, JavaScript, Node.js, PostgreSQL, PostGIS, REST APIs, WebSockets, S3
+- **Infrastructure & DevOps:** Linux, Docker, Kubernetes, Helm, Terraform, CI/CD, ArgoCD, Prometheus, Grafana, ELK Stack
 
-- Testing & Code Quality:
-I take full ownership of what ships to production. I write tests, account for failure states early, and build systems that are easy to maintain.
+Open to backend or full-stack software engineering roles and internships in Finland (onsite or hybrid) and remote across the EU or globally.
 
-- Autonomy & Fast Learning:
-I ramp up on unfamiliar stacks, tools, and codebases independently through documentation and diagnostics, without needing micromanagement.
-
-- Stakeholder Communication:
-I translate high-level product goals and business constraints directly into technical requirements, working seamlessly with product managers, designers, and engineers.
-
-## Stack & Focus:
-
-Go, JavaScript/TypeScript/Node.js, PostgreSQL, S3 Object Storage, REST APIs, WebSockets, Docker.
-
-**Open to backend/software engineering roles (Finland / Remote).**
-
-## 📬 Let's Connect!
-
-- Email: ivan.joker88[at]gmail.com
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ivan-andreev/)
-- ![Profile views](https://views.igorkowalczyk.dev/api/badge/koKorbenSweetheart?style=flat)
+- Email: `ivan.joker88[at]gmail.com`
+- LinkedIn: [linkedin.com/in/ivan-andreev](https://www.linkedin.com/in/ivan-andreev)
 
 ---
 
@@ -120,21 +104,3 @@ This project features a fully functional HTTP server wrapped in a robust middlew
 A CLI implementation of the popular Wordle game, written in Go. This version features persistent statistics, ANSI-colored terminal output, and a modular architecture.
 
 **Tech:** `Go`
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages**: Go, JavaScript, TypeScript, C
-- **Backend**: Echo, Fiber, Node.js, Express.js, NestJS, Fastify, WebSocket
-- **Frontend & Web**: React.js, Next.js, Vite, HTML5/CSS3
-- **Data & Databases**: PostgreSQL, SQLite, Redis, Object Storage (S3), MinIO
-- **Infrastructure & DevOps**: Docker, Bash Scripting, Makefile
-- **Development Ecosystem**: VS Code, Postman, Bruno
-
----
-
-## Currently studying
-
-- TypeScript (JavaScript), React, Vite, and other related frontend tech to complete the Full-Stack developer studies.
-- System design & design patterns.
